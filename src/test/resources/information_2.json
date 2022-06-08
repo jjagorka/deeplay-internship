@@ -1,0 +1,32 @@
+[
+      {
+        "creatureRace": "Bigfoot",
+        "obstacleCost":
+          {
+            "S" : "1",
+            "W" : "1",
+            "T" : "1",
+            "P" : "1"
+          }
+      },
+      {
+       "creatureRace": "Spider-Man",
+        "obstacleCost":
+        {
+          "A" : "1",
+          "R" : "1",
+          "H" : "3",
+          "N" : "1"
+        }
+      },
+      {
+       "creatureRace": "Venom",
+        "obstacleCost":
+        {
+          "S" : "1",
+          "W" : "2",
+          "T" : "2",
+          "P" : "2"
+        }
+      }
+]
